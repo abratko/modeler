@@ -1,0 +1,6 @@
+{
+  "name": "modeler",
+  "version": "1.0.0",
+  "description": "State manager based on effect scope",
+  "types": "./index.d.ts"
+}
